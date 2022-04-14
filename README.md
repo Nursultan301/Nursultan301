@@ -28,5 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=github)
 
+![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=Nursultan301&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 
