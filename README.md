@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=Python&logoColor=47C5FB)
 ![Django](https://img.shields.io/badge/-Django-0C3C26?style=for-the-badge&logo=Django&logoColor=097CDB)
 ![Django Rest Framework](https://img.shields.io/badge/-DRF-A30000?style=for-the-badge&logo=Django&logoColor=F8C52C)
-![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=F88C00)
+![Flask](https://img.shields.io/badge/-Flask-%2300C7B7?style=for-the-badge&logo=Flask&logoColor=F88C00)
 
 
 ### Front-end
