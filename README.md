@@ -19,7 +19,6 @@
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-FCA121?style=for-the-badge&logo=Postman&logoColor=postman)
-
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=github)
