@@ -1,4 +1,5 @@
 ## Всем привет! 👋 Я Backend developer
+![Просмотроно](https://komarev.com/ghpvc/?username=Nursultan301)
 
 <img align="right" alt="GIF" src="https://github.com/Nursultan301/Nursultan301/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -28,5 +29,6 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=27A0D9)](https://wa.me/996700168660)
 
 ![Nursultan301 github stats](https://github-readme-stats.vercel.app/api?username=Nursultan301&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
 
 
