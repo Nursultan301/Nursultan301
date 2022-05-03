@@ -22,7 +22,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FCA121?style=for-the-badge&logo=Postman&logoColor=postman)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=github)
+
 ### Social network
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/abykeev_nursultan_)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Nurs936)
