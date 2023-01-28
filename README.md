@@ -1,6 +1,7 @@
 ## Hello! 👋 I'm backend developer
 ![Просмотроно](https://komarev.com/ghpvc/?username=Nursultan301)
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="500" height="150" />
 <img align="right" alt="GIF" src="https://github.com/Nursultan301/Nursultan301/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Back-end
