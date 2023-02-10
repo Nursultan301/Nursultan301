@@ -1,7 +1,7 @@
 ## Hello! 👋 I'm backend developer
 ![Просмотроно](https://komarev.com/ghpvc/?username=Nursultan301)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="500" height="150" />
+
 <img align="right" alt="GIF" src="https://github.com/Nursultan301/Nursultan301/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Back-end
@@ -32,7 +32,7 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=Whatsapp)](https://wa.me/996700168660)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-128c7e?style=for-the-badge&logo=Linkedin&logoColor=Linkedin)](https://www.linkedin.com/in/nursultan301/)
 
-![Nursultan301 github stats](https://github-readme-stats.vercel.app/api?username=Nursultan301&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
 
 
 
